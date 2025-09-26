@@ -1,5 +1,4 @@
 # Gen-AI
-Generative AI Training
 
 # Generative AI Training (OUK–BCS)
 This repository contains my notes, assignments, and projects from the **Generative AI Training** course, jointly offered by The Open University of Kenya (OUK) and BCS Technology International.  
